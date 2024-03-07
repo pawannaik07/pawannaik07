@@ -15,7 +15,6 @@ Automation/Manual Test professional with more than 3 years of experience with te
 ---
 ### Languages and Tools
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=ableton,azure,bash,blender,c,cpp,css,dart,discord,django,eclipse,firebase,flask,flutter,git,github,html,js,jenkins,linux,mysql,py,selenium,)](https://skillicons.dev) -->
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/)
 [![My Skills](https://skillicons.dev/icons?i=gherkin)](https://cucumber.io/)
