@@ -3,11 +3,6 @@
 Automation/Manual Test professional with more than 3 years of experience with technical skills such as Java, Selenium, TestNG and Postman API
 
 ---
-  
-- Currently working as an Test Engineer at LG Soft India.
-- Actively looking for QA/Test Engineer roles.
-
----
 
 **Contact**
  - **MAIL**: pawan.naik97@gmail.com
