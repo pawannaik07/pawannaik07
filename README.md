@@ -16,14 +16,6 @@ I love to share my experience and learning through blogs. I am working towards g
 - 💬 Ask me about anything related to Software Testing/Test Automation, I will be happy to help!
 
 
-<div align="center">
-  <h2>📊 Profile stats</h2>
-
-
-
-</div>
- 
-</div>
 
 
 
