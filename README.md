@@ -1,6 +1,6 @@
 # Pawan Naik
 
-Automation/Manual Test professional with more than 3 years of experience with technical skills such as Java, Selenium, JMeter, and TestNG.
+Automation/Manual Test professional with more than 4 years of experience with technical skills such as JavaScript, Playwright, JMeter, and PostMan.
 
 ---
 
