@@ -1,6 +1,6 @@
 # Pawan Naik
 
-Automation/Manual Test professional with more than 4 years of experience with technical skills such as JavaScript, Playwright, JMeter, and PostMan.
+Automation Test professional with more than 4 years of experience with technical skills such as JavaScript, Playwright, JMeter, and PostMan.
 
 ---
 
@@ -14,7 +14,7 @@ Automation/Manual Test professional with more than 4 years of experience with te
 
 
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
