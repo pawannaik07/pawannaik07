@@ -1,6 +1,6 @@
 # Pawan Naik
 
-Automation Test professional with more than 4 years of experience with technical skills such as JavaScript, Playwright, JMeter, and PostMan.
+Automation Test professional with more than 5 years of experience with technical skills such as JavaScript, Playwright, JMeter, and PostMan.
 
 ---
 
